@@ -1,0 +1,10 @@
+# Ignore temporary working files
+
+/Mapshots
+*.db
+*.aif
+*.aup
+*.flac
+*.sfk
+Icon_Numbers_VX.jar
+ImagePositioner.exe
